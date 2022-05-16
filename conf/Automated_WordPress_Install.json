@@ -1,0 +1,6 @@
+{
+  "name": "Automated WordPress Install",
+  "script_path": "~/Documents/work/ProcessMedic/cdash-backend/cdash-webUI/scripts/autoWP.sh",
+  "description": "Automatically installs a WordPress instance on this server. All you'll have to do is go back and edit your site just the way you like it.",
+  "parameters": []
+}

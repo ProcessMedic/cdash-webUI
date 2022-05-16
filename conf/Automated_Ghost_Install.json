@@ -1,0 +1,6 @@
+{
+  "name": "Automated Ghost Install",
+  "script_path": "~/Documents/work/ProcessMedic/cdash-backend/cdash-webUI/scripts/autoGhost.sh",
+  "description": "Automatically deploys a Ghost instance on this server - all you will need to do is go in and add in your content, images, and personalize your new site just the way you like it.",
+  "parameters": []
+}

@@ -1,0 +1,5 @@
+{
+	"name": "Ubuntu Server Updater",
+	"script_path": "$HOME/Documents/work/ProcessMedic/cdash-backend/cdash-webUI/scripts/updateSite.sh",
+	"description": "Automatically updates your Ubuntu server for you, handling security, package, and distribution updates."
+}

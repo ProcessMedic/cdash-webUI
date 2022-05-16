@@ -1,0 +1,6 @@
+{
+  "name": "PageGen",
+  "script_path": "~/Documents/work/ProcessMedic/cdash-backend/cdash-webUI/scripts/pagegen.sh",
+  "description": "Automatically generate HTML and CSS pages to automate the beginnings of your websites.",
+  "parameters": []
+}
